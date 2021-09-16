@@ -4,20 +4,6 @@
 
 A *simple* yet neat blogging theme. Developed for the [golas blog](https://golas.blog/) project.
 
-
-## 👓 Preview
-![Preview](preview.gif)
-
-## 💎 Features
-### Responsive
-![Responsivity preview](previewResponsive.gif)
-
-### Dark mode
-![Dark mode preview](previewDark.gif)
-
-### Buttons
-![Buttons preview](previewButtons.png)
-
 ### Lity Lightbox 
 Supports images, videos, iFrames and more. See below for syntax.
 
