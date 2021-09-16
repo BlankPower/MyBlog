@@ -1,5 +1,3 @@
-[![Demo](https://img.shields.io/badge/demo-golasblog-blue?style=flat-square)](https://golas.blog/)
-
 # <img src="assets/img/icons/simplex_logo.svg" alt="Simplex" height="50"/>
 
 [Blankpower's blog](https://blankpower.github.io) using a *simple* yet neat blogging theme called [simplex](https://github.com/andreondra/jekyll-theme-simplex) (developed by andreondra).
