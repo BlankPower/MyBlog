@@ -2,7 +2,7 @@
 
 # <img src="assets/img/icons/simplex_logo.svg" alt="Simplex" height="50"/>
 
-A *simple* yet neat blogging theme. Developed for the [golas blog](https://golas.blog/) project.
+[Blankpower's blog] (https://blankpower.github.io) using a *simple* yet neat blogging theme called [simplex](https://github.com/andreondra/jekyll-theme-simplex) (developed by andreondra).
 
 ### Lity Lightbox 
 Supports images, videos, iFrames and more. See below for syntax.
@@ -218,5 +218,5 @@ The lightbox feature is provided by [Lity](https://github.com/jsor/lity) license
 Uses [jQuery](https://github.com/jquery/jquery) JavaScript plugin licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## ⚖ License
-© Ondrej Golasowski. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+© Blankpower. The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
