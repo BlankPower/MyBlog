@@ -27,7 +27,8 @@ url: "https://blankpower.github.io/MyBlog" # the base hostname & protocol for yo
 github_username:  BlankPower
 
 # Build settings
-theme: jekyll-theme-simplex
+# theme: jekyll-theme-simplex
+remote-theme: andreondra/jekyll-theme-simplex
 plugins:
   - jekyll-feed
 
