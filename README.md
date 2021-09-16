@@ -2,7 +2,7 @@
 
 # <img src="assets/img/icons/simplex_logo.svg" alt="Simplex" height="50"/>
 
-[Blankpower's blog] (https://blankpower.github.io) using a *simple* yet neat blogging theme called [simplex](https://github.com/andreondra/jekyll-theme-simplex) (developed by andreondra).
+[Blankpower's blog](https://blankpower.github.io) using a *simple* yet neat blogging theme called [simplex](https://github.com/andreondra/jekyll-theme-simplex) (developed by andreondra).
 
 ### Lity Lightbox 
 Supports images, videos, iFrames and more. See below for syntax.
