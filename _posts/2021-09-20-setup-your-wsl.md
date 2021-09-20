@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Set up your WSL"
+title:  "Setup your WSL"
 date:   2021-09-20 21:10:00 +0800
 category: Linux
 ---
@@ -20,7 +20,7 @@ function proxy_set() {
     curl myip.ipip.net;
     echo "proxy set.";
 }
-{% endhighlight}
+{% endhighlight %}
 
 这里假定windows端的clash已开启局域网代理（LAN）并且转发端口为7890。首先使用 `cat /etc/resolv.conf` 获取windows端(host)的IP地址，然后设置`http`、`https`等转发。其他具体的一些网络上的操作比如从windows端访问WSL的网络应用可以参照[微软WSL2的文档](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)。
 
