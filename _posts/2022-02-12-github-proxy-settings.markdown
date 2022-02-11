@@ -2,7 +2,7 @@
 layout: post
 title: "Setup Github Proxy"
 date: 2022-02-12 00:13:00 +0800
-catagory: Linux, Setup
+category: Linux, Setup
 ---
 {% highlight bash %}
 Host github.com
