@@ -13,7 +13,7 @@ WSL2与WSL1最大的不同之处在于它是一个独立运行在Hyper-V上的�
 
 {% highlight bash %}
 function proxy_set() {
-    export hostip=$(cat /etc/resolv.conf |grep -oP '(?<=nameserver\ ).*');
+    export hostip=$(cat /etc/resolv.conf |grep -m1 -oP '(?<=nameserver\ ).*');
     export http_proxy="http://${hostip}:7890";
     export https_proxy="http://${hostip}:7890";
     export all_proxy="http://${hostip}:7891";
