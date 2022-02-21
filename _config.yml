@@ -32,6 +32,7 @@ github_username:  BlankPower
 plugins:
   - jekyll-feed
 
+favicon: /assets/img/icons/care_emoji.ico #Absolute path to the favicon. If not specified, the favicon will be default.
 logo_img: /assets/img/icons/home.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
 copyright: © blankpower 2021 #Your copyright.
 
