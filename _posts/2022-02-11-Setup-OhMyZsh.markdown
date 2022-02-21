@@ -6,7 +6,12 @@ category: Linux, Setup
 ---
 这篇介绍如何在一台新的机器上设置Oh-My-Zsh，默认操作系统为Linux，并且有sudo权限。
 
-以我在node6为例:
+以我在node6为例, 原本已经安装了zsh，如果没有安装则需要通过如下命令安装:
+{% highlight bash %}
+sudo apt-get update
+sudo apt-get install zsh
+{% endhighlight %}
+之后再安装oh-my-zsh:
 {% highlight bash %}
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 {% endhighlight %}
