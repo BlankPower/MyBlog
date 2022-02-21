@@ -3,7 +3,7 @@ layout: post
 title: "Setup Github Proxy"
 date: 2022-02-12 00:13:00 +0800
 category: Linux, Setup
-prevPart: 2022-02-11-Setup-OhMyZsh
+prevPart: 2022-02-11-Setup-OhMyZsh.markdown
 ---
 {% highlight bash %}
 Host github.com

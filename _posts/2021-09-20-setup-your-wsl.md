@@ -3,7 +3,7 @@ layout: post
 title:  "Setup your WSL"
 date:   2021-09-20 21:10:00 +0800
 category: Linux
-nextPart: _posts/2022-02-11-Setup-OhMyZsh.md
+nextPart: _posts/2022-02-11-Setup-OhMyZsh.markdown
 ---
 
 首先参照微软的[WSL2安装教程](https://docs.microsoft.com/en-us/windows/wsl/install-win10)进行安装，具体的步骤就不细说了。

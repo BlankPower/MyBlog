@@ -3,8 +3,8 @@ layout: post
 title:  "Setup Oh-My-Zsh"
 date:   2022-02-11 13:59:00 +0800
 category: Linux, Setup
-prevPart: _posts/2021-09-20-setup-your-wsl.md
-nextPart: _posts/2022-02-12-github-proxy-settings.md
+prevPart: _posts/2021-09-20-setup-your-wsl.markdown
+nextPart: _posts/2022-02-12-github-proxy-settings.markdown
 ---
 这篇介绍如何在一台新的机器上设置Oh-My-Zsh，默认操作系统为Linux，并且有sudo权限。
 
