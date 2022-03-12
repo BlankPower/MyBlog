@@ -40,3 +40,9 @@ plugins=(
 {% endhighlight %}
 
 那么到此为止，oh-my-zsh就设置完成了，主题和插件可以根据个人喜好进行调整~
+
+2022-03-12 更新：由于是在WSL2中设置的ZSH，启动时检查更新会导致启动速度变慢，想要快速的打开终端可以考虑关闭ZSH的每周自动更新：在~/.zshrc中找到以下两行，并去掉注释即可。
+{% highlight bash %}
+# Uncomment the following line to disable bi-weekly auto-update checks.
+DISABLE_AUTO_UPDATE="true"
+{% endhighlight %}
